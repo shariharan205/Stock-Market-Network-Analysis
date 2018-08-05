@@ -6,5 +6,5 @@ then one would expect the investors to buy or sell all stocks similarly and maxi
 
 Towards that goal, different graphs are constructed based on similarities among the time series of returns on different stocks at different time scales (day vs a week) and properties of such graphs are identified. The data is obtained from Yahoo Finance website for 3 years. 
 
-The dat has a number of csv tables, each containing several fields: Date, Open, High, Low, Close, Volume, and Adj Close price. 
+The data has a number of csv tables, each containing several fields: Date, Open, High, Low, Close, Volume, and Adj Close price. 
 The files are named according to Ticker Symbol of each stock and the market sector for each company is in Name_sector.csv.
